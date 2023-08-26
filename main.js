@@ -58,7 +58,8 @@ const pAequorFactory = (num, DnaBases) => {
        console.log('specimen ' + pAequor.specimenNum + ' and specimen ' + this._specimenNum + ' have ' + percentage + '% DNA in common.');
     },
     willLikelySurvive(){
-     
+      
+      
     }
   }
 }
